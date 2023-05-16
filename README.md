@@ -12,9 +12,23 @@ You can get one from [here](https://www.amazon.co.jp/-/en/VS-404-Versos-25L-Port
 
 We decided to open the incubator up and see how its made.
 
-<div style="width:50%">
+### Back
 ![](https://github.com/BioClub/Incubator/blob/main/images/power/DSC_4187.JPG)
-</div>
-<div style="width:50%">
+Opening up the Incubator
+
 ![](https://github.com/BioClub/Incubator/blob/main/images/power/DSC_4192.JPG)
-</div>
+
+![](https://github.com/BioClub/Incubator/blob/main/images/power/DSC_4193.JPG)
+Power Board
+
+![](https://github.com/BioClub/Incubator/blob/main/images/power/DSC_4207.JPG)
+The Peltier Device is connected to a heat sink inside the incubator
+
+![](https://github.com/BioClub/Incubator/blob/main/images/power/DSC_4208.JPG)
+The Peltier Device is connected to a heat sink inside the incubator
+
+![](https://github.com/BioClub/Incubator/blob/main/images/power/DSC_4204.JPG)
+Temperature Sensor & Circulation Fan
+
+
+
