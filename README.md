@@ -12,6 +12,9 @@ You can get one from [here](https://www.amazon.co.jp/-/en/VS-404-Versos-25L-Port
 
 We decided to open the incubator up and see how its made.
 
+<div style="width:50%">
 ![](https://github.com/BioClub/Incubator/blob/main/images/power/DSC_4187.JPG)
-
+</div>
+<div style="width:50%">
 ![](https://github.com/BioClub/Incubator/blob/main/images/power/DSC_4192.JPG)
+</div>
