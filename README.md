@@ -32,5 +32,13 @@ Temperature Sensor & Circulation Fan
 
 ### Front Panel
 
+![](https://github.com/BioClub/Incubator/blob/main/images/front/Incubator_Panel.jpg)
+Openend Front Panel
 
+- Power Push Button, with 4 LEDs for visual feedback
+- U1: [78D05L](https://github.com/BioClub/Incubator/blob/main/datasheets/78DXXL.pdf), 5V 0.5A Voltage Regulator
+- U2: Unspecified MCU, Maybe a [PIC16](https://github.com/BioClub/Incubator/blob/main/datasheets/30277d.pdf)?
+- U3: [74HC164D](https://github.com/BioClub/Incubator/blob/main/datasheets/74HC164D.pdf), 8-Bit Shift Register for driving Segment LCD Display
+
+Clearly visible is also the 5 pin connector for the ISP.
 
