@@ -42,3 +42,9 @@ Openend Front Panel
 
 Clearly visible is also the 5 pin connector for the ISP.
 
+![](https://github.com/BioClub/Incubator/blob/main/images/front/LogicBoard_Details.jpg)
+
+![](https://github.com/BioClub/Incubator/blob/main/images/front/Front_Panels_Removed_123.jpg)
+
+
+
